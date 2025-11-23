@@ -1,4 +1,4 @@
-# RHDesk
+# HRDesk
 Projeto de Sistema de administração do Setor de Recursos Humanos, tendo como foco, soluções para automação e desburocratização do Fechamento de Ponto
 
 # HRDesk — Sistema Completo de Gestão de RH
