@@ -3,9 +3,8 @@ D:\Programas\RHDesk\src\main\java\br\com\hrdesk\auth\repository\UserRepository.j
 D:\Programas\RHDesk\src\main\java\br\com\hrdesk\auth\security\JwtService.java
 D:\Programas\RHDesk\src\main\java\br\com\hrdesk\auth\security\JwtAuthenticationFilter.java
 D:\Programas\RHDesk\src\main\java\br\com\hrdesk\auth\dto\LoginRequestDTO.java
-D:\Programas\RHDesk\src\main\java\com\hrdesk\controllers\HelloController.java
-D:\Programas\RHDesk\src\main\java\com\hrdesk\HrdeskApplication.java
 D:\Programas\RHDesk\src\main\java\br\com\hrdesk\auth\service\AuthService.java
 D:\Programas\RHDesk\src\main\java\br\com\hrdesk\auth\dto\LoginResponseDTO.java
 D:\Programas\RHDesk\src\main\java\br\com\hrdesk\auth\security\SecurityConfig.java
 D:\Programas\RHDesk\src\main\java\br\com\hrdesk\auth\model\User.java
+D:\Programas\RHDesk\src\main\java\br\com\hrdesk\HrDeskApplication.java
