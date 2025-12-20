@@ -1,11 +1,12 @@
 package br.com.hrdesk.auth.service;
 
+import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Service;
+
 import br.com.hrdesk.auth.dto.LoginRequestDTO;
 import br.com.hrdesk.auth.dto.LoginResponseDTO;
 import br.com.hrdesk.auth.model.User;
 import br.com.hrdesk.auth.repository.UserRepository;
-import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.stereotype.Service;
 
 @Service
 public class AuthService {
