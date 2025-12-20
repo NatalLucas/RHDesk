@@ -1,0 +1,7 @@
+br\com\hrdesk\auth\repository\UserRepository.class
+br\com\hrdesk\auth\dto\LoginRequestDTO.class
+br\com\hrdesk\HrDeskApplication.class
+br\com\hrdesk\auth\service\AuthService.class
+br\com\hrdesk\auth\model\User.class
+br\com\hrdesk\auth\security\SecurityConfig.class
+br\com\hrdesk\auth\dto\LoginResponseDTO.class
